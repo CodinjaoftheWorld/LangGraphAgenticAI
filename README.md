@@ -3,8 +3,8 @@ title: AgenticAI
 emoji: 🤖
 colorFrom: indigo
 colorTo: blue
-sdk: gradio
-sdk_version: "4.15.0"
+sdk: streamlit
+sdk_version: "1.44.1"  # optional, adjust based on your code requirements
 app_file: app.py
 pinned: true
 ---
